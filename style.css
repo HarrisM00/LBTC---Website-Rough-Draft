@@ -1,6 +1,6 @@
 .d-block w-101 {
     width:50px;
-    height: auto;
+    max-height: 200px;
 
 }
 .carouselslide {
